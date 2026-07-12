@@ -1,4 +1,4 @@
-const API_URL = `https://cbr-xml-daily.ru`;
+const API_URL = `https://www.cbr-xml-daily.ru/daily_json.js`;
 const form = document.getElementById("formGet$");
 
 const timeElement = document.getElementById("time");
